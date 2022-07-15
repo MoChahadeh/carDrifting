@@ -11,4 +11,5 @@ BG = (100,100,100)
 
 pygame.display.set_caption("Car Drifter")
 
-THRUST = 10
+THRUST = 2
+MUE_K = 0.05
